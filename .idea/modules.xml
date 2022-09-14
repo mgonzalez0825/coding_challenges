@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegabytesConverter/MegabytesConverter.iml" filepath="$PROJECT_DIR$/MegabytesConverter/MegabytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositivenegativeZero/PositivenegativeZero.iml" filepath="$PROJECT_DIR$/PositivenegativeZero/PositivenegativeZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsandMinute/SecondsandMinute.iml" filepath="$PROJECT_DIR$/SecondsandMinute/SecondsandMinute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coding challenges.iml" filepath="$PROJECT_DIR$/.idea/coding challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decimalComparator/decimalComparator.iml" filepath="$PROJECT_DIR$/decimalComparator/decimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isCatPlaying/isCatPlaying.iml" filepath="$PROJECT_DIR$/isCatPlaying/isCatPlaying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/leapYearCalculator/leapYearCalculator.iml" />
+    </modules>
+  </component>
+</project>

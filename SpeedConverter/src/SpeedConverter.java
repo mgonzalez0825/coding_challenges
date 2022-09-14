@@ -1,6 +1,7 @@
 
     public class SpeedConverter {
 
+
         public static long toMilesPerHour(double kilometersPerHour){
 
             if (kilometersPerHour < 0) {
@@ -13,7 +14,7 @@
         }
 
 
-        public static void printConversion(double kilometersPerHour){
+        public void printConversion(double kilometersPerHour){ // since this method is not made static you need to instantiate the class SpeedConverter to acces it
 
             if (kilometersPerHour < 0){
                 System.out.println("Invalid Value");

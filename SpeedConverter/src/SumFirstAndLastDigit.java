@@ -1,4 +1,4 @@
-public class sumFirstAndLastDigit {
+public class SumFirstAndLastDigit {
 
         public static int addFirstAndLastDigit(int number){
             while(number>=0){
