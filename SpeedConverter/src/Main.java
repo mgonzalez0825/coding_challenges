@@ -10,7 +10,7 @@ public class Main {
         SpeedConverter.toMilesPerHour(45);
         System.out.println(SumFirstAndLastDigit.addFirstAndLastDigit(365));
         System.out.println(EvenDigitSum.getEvenDigitSum(34768));
-
+        mySpeed.printConversion(70);
     }
 
 
