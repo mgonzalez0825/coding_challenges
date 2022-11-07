@@ -11,6 +11,7 @@ public class Main {
         System.out.println(SumFirstAndLastDigit.addFirstAndLastDigit(365));
         System.out.println(EvenDigitSum.getEvenDigitSum(34768));
         mySpeed.printConversion(70);
+        mySpeed.printConversion(345);
     }
 
 
